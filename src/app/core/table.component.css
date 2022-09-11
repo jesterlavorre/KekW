@@ -1,0 +1,12 @@
+.bg-warning{
+    background-color: rgb(102, 181, 195);
+}
+.bg-secondary{
+    background-color: grey;
+}
+th{
+    padding: 10px;
+}
+.help2{
+    padding: 5px;
+}
